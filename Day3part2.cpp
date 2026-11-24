@@ -11,6 +11,7 @@ void sum(){
  
 }
 int main(){
+    
  
     // learning local and global variables
      int glo = 9;
