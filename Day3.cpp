@@ -9,6 +9,10 @@ int main(){
     float PI = 3.14;
 
      char B = 'A' ;
+
+     bool isTrue=false;
+
+
 //  DAy_3 of learning data types
 
 
@@ -22,6 +26,11 @@ int main(){
     
     
     cout << "\n The value of B = "<<  B  << endl;
+
+
+    cout << "\n The value of isTrue = "<<  isTrue  << endl;
+
+
 
 
 
