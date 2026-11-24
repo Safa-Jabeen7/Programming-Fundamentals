@@ -4,18 +4,21 @@ using namespace std;
 
 int main(){
 
-    int a=5;
-    int b=10;
+    int a=5, b=10;
 
-//  DAy_3 of learning integers
+    float PI = 3.14;
 
-
-    cout << "The value of a = "<< a << endl ;
-
-
-    cout <<  "The value of b = "<< b << endl;
+     char B = 'A' ;
+//  DAy_3 of learning data types
 
 
+    cout <<  "The value of a = "<< a  << "\n The value of b = "<< b ;
+
+      
+    cout << "\n The value of PI = "<<  PI << endl;
+   
+   
+    cout << "\n The value of B = "<<  B  << endl;
 
 
 
