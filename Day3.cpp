@@ -19,6 +19,10 @@ int main(){
    
    
     cout << "\n The value of B = "<<  B  << endl;
+    
+    
+    cout << "\n The value of B = "<<  B  << endl;
+
 
 
 
