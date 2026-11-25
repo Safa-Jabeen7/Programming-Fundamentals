@@ -13,7 +13,6 @@ cout<< "Enter the value of num2: \n";/*"<<" is called insertion operartor*/
 cin>> num2;  /*">>" is called extraction operator*/
 
 
-
  cout << "The sum is : \n" << num1+num2 ;
 
     return 0;
